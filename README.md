@@ -1,3 +1,8 @@
+# Video Anlatım (Youtube)
+
+https://youtu.be/WMVVsTUIkMY?si=weo7N_1UMu1onumY
+
+
 # L298N Motor Sürücü Kartı
 
 ![Ekran görüntüsü 2024-06-12 174851](https://github.com/faruk411/Arduino_bluetooth_car/assets/140047043/fd12a9fd-5492-408e-b40d-71ad563702fa)
