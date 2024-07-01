@@ -28,6 +28,11 @@ https://youtu.be/WMVVsTUIkMY?si=weo7N_1UMu1onumY
 
 ![Ekran görüntüsü 2024-06-12 175743](https://github.com/faruk411/Arduino_bluetooth_car/assets/140047043/5c22e393-2e07-4fbd-97f7-acd0984f2b42)
 
+# Devre Şeması
+
+
+
+
 # Araba  
 
 
