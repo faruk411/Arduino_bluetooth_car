@@ -30,6 +30,7 @@ https://youtu.be/WMVVsTUIkMY?si=weo7N_1UMu1onumY
 
 # Devre Şeması
 
+![sodapdf-converted](https://github.com/faruk411/Arduino_bluetooth_car/assets/140047043/fb1fb0ad-8124-4a2f-be11-a93dd04f847c)
 
 
 
